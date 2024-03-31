@@ -29,6 +29,3 @@ fi
 if [ -n $a ]
 then
  echo "-n $a : string length is not zero"
-else
- echo "-n $a : string length is zero"
-fi
